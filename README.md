@@ -4,7 +4,7 @@ MVIT Library is a simple website for the library at MVIT College, created using 
 This project serves as a learning project to understand Bootstrap and web development.
 
 ## Demo
-You can see a live demo of the MVIT Library website at kishor-mvit-library.netlify.app
+You can see a live demo of the MVIT Library website at https://kishor-mvit-library.netlify.app/
 
 ## Features
 - Simple and responsive website for the MVIT College library.
